@@ -1276,17 +1276,17 @@ Focused on:
 ### 🌐 Deployment
 
 **Render Deployment:**
-`[Deployment Link — Add Later]`
+`https://afternoon-slr-deployment.onrender.com`
 
 ### 💼 LinkedIn
 
 **LinkedIn:**
-`[LinkedIn Link — Add Later]`
+`https://www.linkedin.com/in/sai-kamal-korlakunta/`
 
 ### ✍️ Medium
 
 **Medium:**
-`[Medium Link — Add Later]`
+`https://medium.com/@korlakuntasaikamal10`
 
 ---
 
